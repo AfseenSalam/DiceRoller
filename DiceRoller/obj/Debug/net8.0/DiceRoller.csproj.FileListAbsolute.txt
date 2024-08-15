@@ -1,0 +1,14 @@
+D:\GC Practice\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.exe
+D:\GC Practice\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.deps.json
+D:\GC Practice\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.runtimeconfig.json
+D:\GC Practice\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.dll
+D:\GC Practice\DiceRoller\DiceRoller\bin\Debug\net8.0\DiceRoller.pdb
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfoInputs.cache
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.AssemblyInfo.cs
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.csproj.CoreCompileInputs.cache
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.dll
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\refint\DiceRoller.dll
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.pdb
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\DiceRoller.genruntimeconfig.cache
+D:\GC Practice\DiceRoller\DiceRoller\obj\Debug\net8.0\ref\DiceRoller.dll
